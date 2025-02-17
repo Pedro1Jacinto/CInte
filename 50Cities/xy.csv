@@ -1,0 +1,51 @@
+City,Country,Latitude,Longitude
+Amsterdam,Netherlands,52,5
+Vienna,Austria,48,16
+Salzburg,Austria,47,13
+Brussels,Belgium,50,4
+Antwerp,Belgium,51,4
+Sofia,Bulgaria,42,23
+Zagreb,Croatia,45,16
+Prague,Czech Republic,50,14
+Copenhagen,Denmark,55,12
+Tallinn,Estonia,59,24
+Helsinki,Finland,60,25
+Paris,France,48,2
+Lyon,France,46,5
+Lille,France,50,3
+Montpellier,France,43,3
+Athens,Greece,38,23
+Budapest,Hungary,47,19
+Reykjavik,Iceland,64,-21
+Dublin,Ireland,53,-6
+Milan,Italy,45,9
+Rome,Italy,42,11
+Naples,Italy,41,13
+Turin,Italy,45,7
+Venice,Italy,45,12
+Riga,Latvia,56,24
+Vilnius,Lithuania,54,25
+Luxembourg,Luxembourg,49,6
+Skopje,North Macedonia,41,21
+Rotterdam,Netherlands,51,4
+Eindhoven,Netherlands,51,5
+Oslo,Norway,60,11
+Warsaw,Poland,52,21
+Lisbon,Portugal,39,-9
+Bucharest,Romania,44,26
+Cluj-Napoca,Romania,46,23
+Belgrade,Serbia,44,20
+Bratislava,Slovakia,48,17
+Ljubljana,Slovenia,46,15
+Madrid,Spain,40,-3
+Valencia,Spain,39,0
+Seville,Spain,37,-5
+Bilbao,Spain,43,-3
+Stockholm,Sweden,59,18
+Zurich,Switzerland,47,8
+Sarajevo,Bosnia and Herzegovina,43,18
+Istanbul,Turkey,41,29
+London,United Kingdom,52,0
+Munich,Germany,48,11
+Bremen,Germany,53,8
+Nuremberg,Germany,49,11
